@@ -1,3 +1,6 @@
+// Dataset was pulled from  both http://www.billboard.com/charts/greatest-billboard-200-albums and self.
+
+The Dataset is a collection a musical artists from different genres and time period, which were the two main attribute used to visualize data by means of a bubble chart.
 
 id	name	sales	decade	image_path	genre
 Drake	Drake	40	post-2000	images/drake.png	hip-hop
